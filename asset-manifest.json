@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ayazkhan1990/my-app/static/css/main.e6c13ad2.css",
+    "main.js": "/ayazkhan1990/my-app/static/js/main.855a4b77.js",
+    "index.html": "/ayazkhan1990/my-app/index.html",
+    "main.e6c13ad2.css.map": "/ayazkhan1990/my-app/static/css/main.e6c13ad2.css.map",
+    "main.855a4b77.js.map": "/ayazkhan1990/my-app/static/js/main.855a4b77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.855a4b77.js"
+  ]
+}
